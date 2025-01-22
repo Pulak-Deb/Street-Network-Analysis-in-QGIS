@@ -13,7 +13,5 @@ This repository contains a series of tools for performing **network analysis** o
 - **QGIS**: This project uses QGIS for network visualization and analysis. You can download QGIS [here](https://qgis.org).
   - `ORS tools`
   - `Open Street Map`
-## Outcomes
+## Outcome
 - ![Purbachol_Model_Town](map1.png)
-- 
-
