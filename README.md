@@ -15,3 +15,6 @@ This repository contains a series of tools for performing **network analysis** o
   - `Open Street Map`
 ## Outcome
 - ![Purbachol_Model_Town](map1.png)
+- ![Intersections](map2.png)
+- ![formulas](img3.png)
+- ![results](img4.png)
