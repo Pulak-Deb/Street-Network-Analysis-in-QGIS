@@ -14,6 +14,6 @@ This repository contains a series of tools for performing **network analysis** o
   - `ORS tools`
   - `Open Street Map`
 ## Outcomes
-- ![Purbachol_Model_Town](map1)
+- ![Purbachol_Model_Town](map1.png)
 - 
 
